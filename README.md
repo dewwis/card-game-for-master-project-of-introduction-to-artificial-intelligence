@@ -1,0 +1,2 @@
+# card-game-for-master-project-of-introduction-to-artificial-intelligence
+We start by modelling deck of playing cards followed by writing set of functions same as classes where you can be able to work with this particular deck. This code helps one to play either one or more card games with varying levels of difficulties as more as one continues to play. Using Tkinter graphical user interface as our interface, we are able to analyze this game and the results of the for the game you have played.
