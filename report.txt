@@ -1,0 +1,32 @@
+
+
+
+
+
+
+Deck’s game using tkinter in Python for Introduction to Artificial intelligent.
+Student Name
+Institution Affiliation
+Professor’s Name
+Course
+Date
+
+
+
+
+
+
+This is a detailed report about the graphical user interface in python (tkinters) demonstrating the card game using the specified algorithms. We start by modelling deck of playing cards followed by writing set of functions same as classes where you can be able to work with this particular deck. This code helps one to play either one or more card games with varying levels of difficulties as more as one continues to play. Using Tkinter graphical user interface as our interface, we are able to analyze this game and the results of the for the game you have played.
+A card game is any game that is played with playing cards as the primary mechanism, whether traditional or game-specific.There are several card games, as well as families of related games (such as poker). Only a few card games played with traditional decks have fully regulated rules and worldwide competitions, but the majority are folk games with rules that vary by location, culture, and individual.A deck or pack of identically sized and shaped playing cards is used in a card game. There are two sides to each card: the front and the reverse. The backs of the cards are usually indistinguishable. There could be duplicates or all of the cards' faces could be unique. The elements that make up a deck
+We first make a list of all cards in a deck of cards that have hearts on them. This time can contain any items of your choice like for instance 2 hearts, 3 hearts, 4 hearts or any other number. You need to print the number of hearts that you have decided to use in your program. You are now required to proceed and come up witsh a syntax using the specified method that you have decided to use throughout your whole program. We have various methods like the case of empty lists of having a series of append()or even the insert() calls.
+For one to come up with this algorithm, the use of looping for the heart is mainly the main module used here. You first need to make the list of all the cards in a deck of cards which contains hearts on them. This list as outlined in the previous paragraph we need to use the loop structure to make it possible for the generation of many cards as possible. We can test this through looping the list and then printing the results (you should have a specified range of loop). You can advance and print a face card or even cards number on them.
+Through out this code, we need to use nested loops as well as classes and functions in order to make the code run and play efficiently. There are series of functions which need to be written and modules imported in to the IDE before even running any code or even printing anything out of the code.
+theme: jekyll-theme-cayman
+in order for you to be able to use the above theme you need to follow the following steps.Start by adding  _config.yml to your site:
+1.	remote_theme: pages-themes/cayman@v0.2.0
+2.	plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one or the one given above directly from my IDE.
+If one wants to preview this site in the specified site then the following line of code need to be run into the IDE.
+gem "github-pages", group: :jekyll_plugins
+
+
